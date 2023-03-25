@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurav-S-Purushothaman
-- 👀 I’m interested in ML,DL,DS,AI,Mobile development, Web Development
-- 🌱 I’m currently learning ML,DL,DS,AI,Mobile development, Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Engineering, Google Cloud Platform, BigQuery, Apache Hadoop, spark, kafka etc etc.
+- 🌱 I’m currently learning Data Engineering, ETL tools and performing ETL operations for a largescale credit card company.
+- 💞️ I’m looking to collaborate on data engineering project especially creating pipelines and data orchestration
 - 📫 How to reach me: saurav.kudajadri@gmail.com, +917025784004
 
 <!---
