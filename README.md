@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Saurav
-- 👀 I’m interested in Clojure, Emacs and Software Development
+- I am a backend software developer. 
+- 👀 I’m interested in Clojure, Emacs, and Software Development
 
 <!---
 Saurav-S-Purushothaman/Saurav-S-Purushothaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
